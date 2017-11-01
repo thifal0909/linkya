@@ -1,0 +1,2 @@
+# linkya
+linkyasafe
